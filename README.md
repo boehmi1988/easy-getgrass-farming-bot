@@ -1,14 +1,14 @@
-# Easy GetGrass Farming Bot (Community Node)
+# 🌱 Easy GetGrass Farming Bot (Community Node)
 
 The GetGrass Proxy Bot allows you to farm Grass Points for the [GetGrass.io](https://app.getgrass.io/register/?referralCode=pSOs2i8ktlTlqwG) project by using multiple residential proxies. This script is specifically designed to maximize point collection by leveraging proxies to maintain multiple active connections simultaneously.
 
-## Purpose
+## 🌟 Purpose
 
 The script connects to the GetGrass network via multiple proxies, emulating different nodes (Community Node or Lite Node) to collect Grass Points. Each proxy is represented by its own WebSocket connection that regularly pings and performs HTTP requests to stay active and generate points.
 
-## Usage
+## 🚀 Usage
 
-### Prerequisites
+### 📋 Prerequisites
 
 - [Node.js](https://nodejs.org/en/download/package-manager) installed
 - Access to residential proxies (e.g., through [smartproxy.com](dashboard.smartproxy.com/register?referral_code=f203d27fbb1ab4be390d19cef23667fff17575f5))
@@ -16,7 +16,7 @@ The script connects to the GetGrass network via multiple proxies, emulating diff
     - To register, you need a referal code. You can use [this referral link](https://app.getgrass.io/register/?referralCode=pSOs2i8ktlTlqwG) if you want to support me.
     - Or use my referal code: ***pSOs2i8ktlTlqwG***
 
-### Installation
+### ⚙️ Installation
 
 1. Clone this repository:
 
@@ -31,7 +31,7 @@ The script connects to the GetGrass network via multiple proxies, emulating diff
     npm install
     ```
 
-### Configuration
+### 🛠️ Configuration
 
 Customize the config.js file according to your needs.
 
@@ -73,7 +73,7 @@ Customize the config.js file according to your needs.
 
 4. the rest of the configuration can stay untouched
 
-### Running the script
+### ▶️ Running the script
 
 After customizing the config.js file, you can run the script with the following command:
 
@@ -83,13 +83,13 @@ node app.js
 
 The script will now establish connections to GetGrass through the specified proxies and regularly collect points.
 
-## Referal
+## ❤️ Referal
 
 If you don't have a GetGrass account yet and want to support me, you can register using [this referral link](https://app.getgrass.io/register/?referralCode=pSOs2i8ktlTlqwG) to get started.
 
 Or feel free to use my referal code: ***pSOs2i8ktlTlqwG***
 
-## Notes
+## 📝 Notes
 
 - Ensure that you have the appropriate permissions and access to the proxies you are using.
 - Regularly check the logs to ensure all connections are working correctly and points are being collected.
