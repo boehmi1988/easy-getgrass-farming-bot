@@ -237,7 +237,7 @@ export class ProxyWebSocket {
         if (!this.loggingEnabled)
             return;
 
-        const now = new Date().toLocaleString('de-DE', { timeZone: 'Europe/Berlin' });
+        const now = new Date().toLocaleString();
         const logString = `[${this.index}] ${now} - ${message}`;
 
         if (logLevel === 'error')
