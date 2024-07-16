@@ -35,13 +35,13 @@ The script connects to the GetGrass network via multiple proxies, emulating diff
 
 Customize the config.js file according to your needs.
 
-1. Add your Grass User ID to `GRASS_USER_ID`. To obtain your Grass User ID:
+1. Add your Grass User ID to `GRASS_USER_ID`.
 
     ```javascript
     export const GRASS_USER_ID = 'xxxxxxxx'; // your grass user ID
     ```
     
-    How to get Grass User ID
+    To obtain your Grass User ID:
     - Open the GetGrass dashboard: [GetGrass Dashboard](https://app.getgrass.io/dashboard)
     - Open Chrome Developer Tools:
         - Windows/Linux: `Ctrl + Shift + I`
