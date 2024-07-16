@@ -71,7 +71,7 @@ Customize the config.js file according to your needs.
     ];
     ```
 
-4. the rest of the configuration can stay untouched
+4. The rest of the configuration can remain unchanged unless you need specific adjustments.
 
 ### ▶️ Running the script
 
