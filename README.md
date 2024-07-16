@@ -11,7 +11,7 @@ The script connects to the GetGrass network via multiple proxies, emulating diff
 ### 📋 Prerequisites
 
 - [Node.js](https://nodejs.org/en/download/package-manager) installed
-- Access to residential proxies (e.g., through [smartproxy.com](dashboard.smartproxy.com/register?referral_code=f203d27fbb1ab4be390d19cef23667fff17575f5))
+- Access to residential proxies (e.g., through [smartproxy.com](https://dashboard.smartproxy.com/register?referral_code=f203d27fbb1ab4be390d19cef23667fff17575f5))
 - [GetGrass.io](https://app.getgrass.io/register/?referralCode=pSOs2i8ktlTlqwG) account
     - To register, you need a referal code. You can use [this referral link](https://app.getgrass.io/register/?referralCode=pSOs2i8ktlTlqwG) if you want to support me.
     - Or use my referal code: ***pSOs2i8ktlTlqwG***
