@@ -104,8 +104,6 @@ export class ProxyWebSocket {
 
     onError(error) {
         this.logError('WebSocket error:', error);
-        clearInterval(this.pingIntervalHandle);
-        setTimeout(this.initialize.bind(this), 5000); // Retry connection after 5 seconds
     }
     
     getAuthentication() {
